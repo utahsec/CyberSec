@@ -1,0 +1,52 @@
+Competition: CSAW '24
+Date: 09/07-09/08
+Placement:159th place
+Points: 2089 
+Github: 
+
+Members
+User Name	Score
+JJPonce0913	100
+nnort	     51
+Geoshe1	    50
+GamingOnTheFloor	0
+ZachMartim	0
+obsydian	283
+duke7012	557
+Endeavy	    319
+moonweaver	0
+g_sherm4	0
+Guno327	    0
+Zakstamaj	451
+snagy	    0
+JoshS	    278
+GPSolo	    0
+K0SHKI	    0
+Quin_J	    0
+rangusun	0
+MilesWhite	0
+ckrogue 	0
+Boxman	    0
+chichicharlie	0
+
+
+Solves
+Challenge	Value	Time
+CBC	401	September 7th, 6:36:02 PM
+Covert	169	September 7th, 4:48:29 PM
+Magic Tricks	50	September 7th, 4:25:56 AM
+AES Diffusion	342	September 7th, 1:30:36 AM
+Diffusion Pop Quiz	215	September 7th, 1:05:35 AM
+Log Me In	50	September 7th, 12:25:54 AM
+The Triple Illusion	228	September 6th, 11:35:01 PM
+Trapdoor	50	September 6th, 9:34:25 PM
+Playing on the Backcourts	50	September 6th, 9:25:19 PM
+HexHex	50	September 6th, 8:52:08 PM
+ZipZipZip	50	September 6th, 7:36:35 PM
+Plane Spotting	183	September 6th, 6:22:26 PM
+Authentic Chinese Food	50	September 6th, 6:06:16 PM
+Baby Rev	50	September 6th, 5:04:31 PM
+Diving Into Null	50	September 6th, 4:32:29 PM
+OSIRIS Trivia	50	September 6th, 3:23:29 PM
+Rickshaw	50	September 6th, 2:54:32 PM
+Flag	1	September 6th, 1:18:51 PM
