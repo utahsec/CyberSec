@@ -20,4 +20,4 @@ Writeups benefit others because reading writeups is one of the best ways to lear
 
 ## How can I add my own writeup to this repo?
 
-Feel free to use the [CTF writeup template](ctf-writeup-template.md) to get started. You can also look at the existing writeups for examples. After you have finished your writeup, please make a GitHub pull request with your writeup and relevant files in the appropriate directory (<CTF event name>/<challenge name>/README.md for the writeup) and notify a UtahSec officer in the Discord server.
+Feel free to use the [CTF writeup template](ctf-writeup-template.md) to get started. You can also look at the existing writeups for examples. After you have finished your writeup, please make a GitHub pull request with your writeup and relevant files in the appropriate directory (`<CTF event name>/<challenge name>/README.md` for the writeup) and notify a UtahSec officer in the Discord server.

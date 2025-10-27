@@ -1,20 +1,22 @@
-# <CTF event name>: <challenge name>
+# `CTF event name`: `challenge name`
 
-Author: <your name>
+Author: `your name`
 
 ## Description
 
-* Challenge author: <name of challenge author if available>
-* Category: <challenge category>
-* Solves: <number of solves, optional>
+* Challenge author: `name of challenge author if available`
+* Category: `challenge category`
+* Solves: `number of solves, optional`
 
-> <CTF challenge description from CTF event>
+> `CTF challenge description from CTF event`
+> 
 > ...
+> 
 > ...
 
 Files:
 
-* <links to relevant challenge files, files can be uploaded to the repo>
+* `links to relevant challenge files, files can be uploaded to the repo`
 * ...
 * ...
 
