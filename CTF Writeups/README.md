@@ -16,7 +16,7 @@ A writeup for a CTF challenge is a document explaining how someone solved the ch
 
 Writing CTF writeups benefits yourself and others. It benefits yourself because, as the adage goes, "the best way to learn is to teach", and it is a great way to reinforce the skills and knowledge that you've learned from a challenge. Additionally, it is a great way to document the skills you've learned over your cybersecurity journey.
 
-Writeups benefit others because reading writeups is one of the best ways to learn the technical cybersecurity skills needed to fully solve a challenge on your own. If you have ever learned something new from reading someone else's writeup, it is good to give back to your community of fellow hackers and contribute to a culture of sharing (https://en.wikipedia.org/wiki/Hacker_ethic).
+Writeups benefit others because reading writeups is one of the best ways to learn the technical cybersecurity skills needed to fully solve a challenge on your own. If you have ever learned something new from reading someone else's writeup, it is good to give back to your community of fellow hackers and contribute to a culture of sharing.
 
 ## How can I add my own writeup to this repo?
 
