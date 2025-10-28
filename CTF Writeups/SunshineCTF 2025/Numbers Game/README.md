@@ -15,6 +15,12 @@ Author: Carson He
 Files:
 * [numbers-game](numbers-game)
 
+## Tools used
+
+* Ghidra
+* Python with pwntools
+* gcc
+
 ## Initial Analysis
 
 ```
