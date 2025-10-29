@@ -1,4 +1,4 @@
-# UtahSec meeting 10-29-2025
+# UtahSec meeting 2025-10-29
 
 CTF technical skills workshop on basic RSA factoring attacks.
 

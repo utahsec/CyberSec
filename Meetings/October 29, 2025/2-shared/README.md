@@ -1,4 +1,4 @@
-# shared | Cryptography | UtahSec 10-29-2025
+# shared | Cryptography | UtahSec 2025-10-29
 
 ## Initial analysis
 

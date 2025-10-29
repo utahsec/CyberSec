@@ -1,4 +1,4 @@
-# lookup | Cryptography | UtahSec 10-29-2025
+# lookup | Cryptography | UtahSec 2025-10-29
 
 ## Initial analysis
 
