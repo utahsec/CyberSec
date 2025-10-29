@@ -38,7 +38,7 @@ After recovering $p$, you can recover the other prime factor in each of the two 
 
 Now that you have the factorization of $n_1$ and $n_2$, you are ready to recover the private exponents of both key pairs.
 
-Compute $\phi (n_1)$ and $\phi (n_2)$ the same way as in the lookup challenge.
+Compute $\varphi (n_1)$ and $\varphi (n_2)$ the same way as in the lookup challenge.
 
 <details>
 <summary>Answer (click to reveal)</summary>
@@ -49,7 +49,7 @@ phi2 = (p - 1) * (q2 - 1)
 ```
 </details>
 
-Now that you have $\phi (n_1)$ and $\phi (n_2)$, compute $d_1$ and $d_2$ the same way as in lookup.
+Now that you have $\varphi (n_1)$ and $\varphi (n_2)$, compute $d_1$ and $d_2$ the same way as in lookup.
 
 <details>
 <summary>Answer (click to reveal)</summary>

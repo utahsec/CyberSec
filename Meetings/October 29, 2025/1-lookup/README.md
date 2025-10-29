@@ -38,22 +38,22 @@ After you have found the factorization of `n`, set the variables `p` and `q` to 
 
 Now that you have the factorization of $n$, you are ready to recover the private exponent and decrypt the ciphertext.
 
-How do you compute $\phi (n)$?
+How do you compute $\varphi (n)$?
 
 <details>
 <summary>Answer (click to reveal)</summary>
 
-$\phi (n) = (p - 1)(q - 1)$
+$\varphi (n) = (p - 1)(q - 1)$
 
 In Python, this can be computed with `phi = (p - 1) * (q - 1)`.
 </details>
 
-Now that you have $\phi (n)$, how do you compute the private exponent $d$?
+Now that you have $\varphi (n)$, how do you compute the private exponent $d$?
 
 <details>
 <summary>Answer (click to reveal)</summary>
 
-$d \equiv e^{-1} \mod \phi (n)$
+$d \equiv e^{-1} \mod \varphi (n)$
 
 In Python, this can be computed with `pow(e, -1, mod=phi)`.
 </details>
