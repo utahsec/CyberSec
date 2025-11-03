@@ -6,7 +6,7 @@ Author: `your name`
 
 * Challenge author: `name of challenge author if available`
 * Category: `challenge category`
-* Solves: `number of solves, optional`
+* Point value: `number of points, optional`
 
 > `CTF challenge description from CTF event`
 > 

@@ -6,7 +6,7 @@ Author: Carson He
 
 * Challenge author: Kyle Cahalan (ThatOneKMC)
 * Category: reverse engineering
-* Solves: 237
+* Point value: 27
 
 > Welcome to the Numbers Game! You'll need some luck for this one.
 >
