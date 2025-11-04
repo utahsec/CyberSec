@@ -30,10 +30,10 @@ Files:
 
 ## Initial Analysis
 
-Describe how you started analyzing the challenge, and what information you discovered.
+Describe how you started analyzing the challenge, and what information you discovered. If you include screenshots, please upload the screenshots to the repo and embed them in Markdown with relative links to avoid broken links in the future.
 
 ## Solution
 
 Add additional sections as necessary to explain what you did to solve the challenge.
 
-If you wrote a solver script, it is preferable to include it in the writeup, either by copy or a link.
+If you wrote a solver script, it is preferable to include it in the writeup.
