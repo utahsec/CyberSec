@@ -1,5 +1,7 @@
 # `CTF event name`: `challenge name`
 
+NOTE, REMOVE THIS LINE BEFORE SUBMITTING: Fill in the information in `code blocks`, and remove the backticks.
+
 Author: `your name`
 
 ## Description
@@ -16,7 +18,7 @@ Author: `your name`
 
 Files:
 
-* `links to relevant challenge files, files can be uploaded to the repo for relative links`
+* `links to relevant challenge files, please upload files to the repo and use relative links to avoid broken links in the future`
 * ...
 * ...
 
