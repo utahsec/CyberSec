@@ -8,6 +8,7 @@ Author: Walker Dauphin II (obsydian_falcon)
 * Sub-category: Steganography
 
 > This image is blank is it?
+> 
 > Format: v1t{the_flag}
 
 Files:
@@ -61,4 +62,6 @@ After running this python script, I was able to get a completely inverted png. I
 
 Turned out, the right values after some experimentation were 100(b), 1(c), and 1(g).
 
-The flag revealed in the picture: `v1t{whit3_3y3s}`
+The flag revealed in the picture:
+
+`v1t{whit3_3y3s}`

@@ -6,8 +6,9 @@ Author: Walker Dauphin II (obsydian_falcon)
 
 * Category: OSINT
 
->I found this company selling this cute wooden duck for the halloween but i forgot where link web store :< can you help me find it
->Flag format: v1t{example.com}
+> I found this company selling this cute wooden duck for the halloween but i forgot where link web store :< can you help me find it
+> 
+> Flag format: v1t{example.com}
 
 Files:
 
@@ -23,4 +24,6 @@ Files:
 * Use google image search and tineye to reverse-search first
     * First hit: https://www.dcuk.com/magician-duckling
 
-The flag is the website where this picture can be found: `vit{dcuk.com}`
+The flag is the website where this picture can be found:
+
+`vit{dcuk.com}`

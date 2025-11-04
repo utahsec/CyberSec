@@ -7,8 +7,11 @@ Author: Walker Dauphin II (obsydian_falcon)
 * Category: OSINT
 
 > Bro, I found "Among Us" at this school!
+> 
 > Can you spot the hidden acronym?
+> 
 > Wrap it in v1t{...} to submit your answer.
+> 
 > Example: University of Economics Ho Chi Minh City => v1t{UEH}
 
 Files:
@@ -31,4 +34,6 @@ Now that I had the name of the building, it was time to guess what the flag woul
 * v1t{UIH} wrong
 * v1t{UIT} CORRECT!
 
-Here's the flag that was accepted by the CTF site: `v1t{UIT}`
+Here's the flag that was accepted by the CTF site:
+
+`v1t{UIT}`

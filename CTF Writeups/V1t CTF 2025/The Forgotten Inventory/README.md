@@ -28,7 +28,7 @@ Files: N/A
 First, I googled "Operation Freedom" and found a wikipedia article as the first hit, "Operation Enduring Freedom". Within that wikipedia article, I found a link to the military version of the events. Both links are below.
 
 * [wikipedia](https://en.wikipedia.org/wiki/Operation_Enduring_Freedom)
-* [navy.mil](ihttps://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/operation-enduring-freedom.html)
+* [navy.mil](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/operation-enduring-freedom.html)
 
 ## Solution
 
@@ -74,4 +74,6 @@ Classification:  UNCLASSIFIED
 Caveats: NONE
 ```
 
-The flag is the email of the officer requesting the data removal: `v1t{david.j.hoskins@us.army.mil}`
+The flag is the email of the officer requesting the data removal:
+
+`v1t{david.j.hoskins@us.army.mil}`
