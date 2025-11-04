@@ -15,7 +15,7 @@ Author: Duck (Duke) Nguyen (duke7012)
 
 File(s):
 
-![dusk_till_duck.jpg](dusk_till_duck.jpg)
+* [dusk_till_duck.jpg](dusk_till_duck.jpg)
 
 ## Tools used
 
