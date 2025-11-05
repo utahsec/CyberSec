@@ -1,6 +1,6 @@
 # SunshineCTF 2025: Numbers Game
 
-Author: Carson He
+Author: Carson He (zakstamaj)
 
 ## Description
 
