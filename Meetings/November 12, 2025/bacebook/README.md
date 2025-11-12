@@ -12,7 +12,7 @@ Explore the website a little! Try making an account and look at the profile page
 
 Take a brief look at the source code of the application running on the server. Don't worry about understanding all of the code, but note that the application is written in PHP, which is a server-side scripting language.
 
-If we can upload our own PHP files to the server and request them, then the PHP interpreter would process and execute our PHP file, achieving RCE (remote code execution).
+If we can upload our own PHP files to the server and request them, then the PHP interpreter will process and execute our PHP file, achieving RCE (remote code execution).
 
 ## Uploading files
 
@@ -69,7 +69,7 @@ And you can chain `..` with forward slashes `/` to go back multiple directories:
 Use these commands to find which directory has the file `flag.txt`. Once you have found `flag.txt`, use the `cat` command to print it out!
 
 ```
-cat <path to file>
+<?php echo shell_exec("cat <path to file>"); ?>
 ```
 
 <details>
