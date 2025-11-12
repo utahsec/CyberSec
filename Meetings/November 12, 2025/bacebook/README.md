@@ -10,11 +10,9 @@ Challenge website: http://35.161.63.210/
 
 Explore the website a little! Try making an account and look at the profile page.
 
-Take a look at `index.php`. In PHP, all HTTP requests that do not request a file are routed through `index.php`.
+Take a brief look at the source code of the application running on the server. Don't worry about understanding all of the code, but note that the application is written in PHP, which is a server-side scripting language.
 
-The file uses `include` and `require` statements, which read a file and output the contents back to the client. The statements also evaluate any PHP code within the file if the filename has a `.php` extension.
-
-If we can upload our own PHP files to the server and request them, then we would be able to execute our PHP code on the server and achieve RCE (remote code execution).
+If we can upload our own PHP files to the server and request them, then the PHP interpreter would process and excute our PHP file, achieving RCE (remote code execution).
 
 ## Uploading files
 
