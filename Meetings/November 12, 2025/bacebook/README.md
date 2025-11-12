@@ -12,7 +12,7 @@ Explore the website a little! Try making an account and look at the profile page
 
 Take a brief look at the source code of the application running on the server. Don't worry about understanding all of the code, but note that the application is written in PHP, which is a server-side scripting language.
 
-If we can upload our own PHP files to the server and request them, then the PHP interpreter would process and excute our PHP file, achieving RCE (remote code execution).
+If we can upload our own PHP files to the server and request them, then the PHP interpreter would process and execute our PHP file, achieving RCE (remote code execution).
 
 ## Uploading files
 
