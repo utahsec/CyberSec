@@ -88,7 +88,7 @@ Congratulations! You got the flag!
 
 ## Reverse shells
 
-> ![NOTE]
+> [!NOTE]
 > As a side note, when hackers are able to achieve RCE on a server, they often set up something called a "reverse shell". A reverse shell script starts a shell, makes the victim machine initiate a connection to the attacker's machine, and allows the attacker to run shell commands on the victim machine from their machine.
 > 
 > Here is an example of a reverse shell payload for PHP on Linux that runs a Bash shell:
