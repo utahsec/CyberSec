@@ -62,6 +62,15 @@ Look at his post, what information can we get from his post?
   We can infer from the post description that his partner is 2019 Ford Gt. We can also figure out his birthday by looking at the post date.
 </details>
 
+### Question 2.5
+It would be useful to figre out the birthday of the partner. In this case it would be the production date. How would we get the production date?
+
+<details>
+  <summary>Click to reveal answer</summary>
+
+  Just google 2019 ford gt production date. Since it provides a month, we'll just assume its the first of the month.
+</details>
+
 ---
 ### Next Step
 Once you have all the information launch CUPP and input the information
@@ -83,3 +92,4 @@ john --show hash.txt
 ## Challenge 2
 
 Use CUPP to generate a wordlist for yourself and see if your passwords are venerable.
+
